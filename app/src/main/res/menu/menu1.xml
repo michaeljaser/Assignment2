@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <item
+            android:id="@+id/JD"
+            android:title="Jordanian Dinar"
+            />
+        <item
+            android:id="@+id/dollar"
+            android:title="U.S. Dollar"/>
+            />
+        <item
+            android:id="@+id/rate"
+            android:title="Rate App"/>
+</menu>
